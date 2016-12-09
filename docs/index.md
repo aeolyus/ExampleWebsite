@@ -2,8 +2,8 @@
 title: ExampleWebsite
 ---
 
-#This is a website#
+# This is a website #
 
-##Written in markdown##
+## Written in markdown ##
 
-###This is pretty cool honestly###
+### This is pretty cool honestly ###
