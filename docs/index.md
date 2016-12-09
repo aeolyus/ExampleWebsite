@@ -1,3 +1,7 @@
+---
+title: ExampleWebsite
+---
+
 # This is a website
 
 ## Written in markdown
